@@ -1,3 +1,6 @@
 .DS_Store
 /.build
 /Packages
+/CocoaNIO.xcodeproj/xcuserdata
+/CocoaNIO.xcodeproj/GeneratedModuleMap
+/CocoaNIO.xcodeproj/project.xcworkspace/xcuserdata
